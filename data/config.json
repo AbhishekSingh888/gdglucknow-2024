@@ -1,0 +1,124 @@
+{
+  "welcome": {
+    "title": "Welcome to DevFest Lucknow"
+  },
+  "communityName": "Google Developers Group Lucknow",
+  "communityLocation": {
+    "country": "Lucknow",
+    "city": "Lucknow"
+  },
+  "communityDescription": "GDG is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation.",
+  "communityLinks": {
+    "page": "https://gdg.community.dev/gdg-lucknow/",
+    "website": "https://gdg.community.dev/gdg-lucknow/",
+    "instagram": "https://www.instagram.com/gdglucknow/",
+    "linkedin": "https://www.linkedin.com/company/google-developer-groups-lucknow/",
+    "youtube": "https://www.youtube.com/c/GDGIndia/",
+    "twitter": "https://twitter.com/gdglko",
+    "commudle": "https://www.commudle.com/communities/gdg-lucknow"
+  },
+  "eventInfo": {
+    "name": "DevFest Lucknow 2024",
+    "date": "October to December 2024",
+    "time": "9 AM - 5 PM IST",
+    "venue": {
+      "address": "Lucknow",
+      "map_link": "https://maps.app.goo.gl/Cm6gXgpugNw74ow6A"
+    },
+    "registeration": {
+      "link": "https://gdg.community.dev/",
+      "end_date": "2024-10-25"
+    },
+    "description": {
+      "short": "Dive deep into the latest trends and innovations through talks, workshops, and more. It's a day filled with learning, networking, and inspiring ideas",
+      "long": "An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc.An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc."
+    },
+    "stats": [
+      {
+        "name": "Speakers",
+        "value": "10+",
+        "color": "#FFE7A5",
+        "image": "img/common/stats4.png"
+      },
+      {
+        "name": "Participants",
+        "value": "700+",
+        "color": "#C3ECF6",
+        "image": "img/common/stats1.png"
+      },
+      {
+        "name": "Community Members",
+        "value": "3000+",
+        "color": "#CCF6C5",
+        "image": "img/common/stats3.png"
+      }
+    ],
+    "whatToExpect": [
+      {
+        "title": "Hands-on Sessions",
+        "description": "Participate in interactive sessions where you can get hands-on experience with the latest Google technologies.",
+        "color": "#CCF6C5"
+      },
+      {
+        "title": "Networking Opportunity",
+        "description": "Meet and connect with fellow developers, industry leaders, and Google experts to expand your professional network.",
+        "color": "#CBF0F8"
+      },
+      {
+        "title": "Swags and Goodies",
+        "description": "Receive exclusive swags and goodies as a token of appreciation for attending the event.",
+        "color": "#FFE7A5"
+      },
+      {
+        "title": "Workshops",
+        "description": "Join interactive workshops to learn new skills and technologies with hands-on guidance from experts.",
+        "color": "#FFD700"
+      },
+      {
+        "title": "Keynote Speeches",
+        "description": "Be inspired by keynote speeches from industry leaders and Google experts, sharing insights and future trends.",
+        "color": "#FF6347"
+      },
+      {
+        "title": "Panel Discussions",
+        "description": "Engage in thought-provoking panel discussions on the latest trends and techs, featuring experts from various fields.",
+        "color": "#8A2BE2"
+      }
+    ],
+    "lastYearHighlight": {
+      "videoTitle": "Last year highlight",
+      "videoLink": "https://www.youtube.com/watch?v=gLe9bmU1l3Q",
+      "embedLink": "https://www.youtube.com/embed/gLe9bmU1l3Q"
+    },
+    "pastDevFest": {
+      "summery": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente amet asperiores unde. Adipisci nobis ipsum fuga amet? Ut, iusto tenetur quisquam neque consectetur impedit magnam unde harum a mollitia possimus? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores laborum ut praesentium architecto a. Recusandae neque deserunt saepe mollitia quibusdam a nihil dicta in, totam hic molestias eaque. Dolores, nisi.",
+      "images": [
+        "image-1.png",
+        "image-2.png",
+        "image-3.png"
+      ],
+      "stats": [
+        {
+          "name": "Speakers",
+          "value": "23+"
+        },
+        {
+          "name": "Participants",
+          "value": "200+"
+        },
+        {
+          "name": "Sessions",
+          "value": "10+"
+        },
+        {
+          "name": "Workshops",
+          "value": "2+"
+        }
+      ]
+    }
+  },
+  "seo": {
+    "keywords": "GDG, DevFest, Google, DevFest",
+    "hostUrl": "https://devfest-app-2024.web.app"
+  }
+}
