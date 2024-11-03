@@ -17,7 +17,7 @@
             <v-btn rounded size="large" color="#FFD427" to="/events" class="my-4 mt-3" target="_blank"
               style="border: 1.5px solid #1e1e1e; color: black; text-transform: capitalize; font-weight: 600; font-size: 16px;"
               variant="flat">
-              Book Your Ticket Now
+              Book Your Pass Now
               <v-icon class="ml-2">mdi-ticket-confirmation</v-icon>
             </v-btn>
           </div>

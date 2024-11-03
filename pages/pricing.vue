@@ -1,14 +1,14 @@
 <template>
     <h1 class="text-center">Choose Your Dev Fest 2024 Experience</h1>
-    <p class="text-center">Explore ticket options and secure your spot at the year's biggest developer event!</p>
+    <p class="text-center">Explore Pass options and secure your spot at the year's biggest developer event!</p>
     
     <v-container class="d-flex justify-center pa-10 mt-10">
       <v-row align="stretch" >
-        <!-- Early Bird Ticket -->
+        <!-- Early Bird Pass -->
         <v-col cols="12" md="4" class="d-flex" >
           <div class="shadow-wrapper">
             <v-card class="pricing-card early-bird-card flex-column" outlined>
-              <v-card-title class="title">Early Bird Ticket</v-card-title>
+              <v-card-title class="title">Early Bird Pass</v-card-title>
               <v-card-subtitle class="price">₹99</v-card-subtitle>
               <v-card-text class="flex-grow-1">
                 <p class="subtext">Available until Jan 31, 2024</p>
@@ -22,11 +22,11 @@
           </div>
         </v-col>
   
-        <!-- Standard Ticket -->
+        <!-- Standard Pass -->
         <v-col cols="12" md="4" class="d-flex">
           <div class="shadow-wrapper">
             <v-card class="pricing-card standard-card flex-column" outlined>
-              <v-card-title class="title">Standard Ticket</v-card-title>
+              <v-card-title class="title">Standard Pass</v-card-title>
               <v-card-subtitle class="price">₹149</v-card-subtitle>
               <v-card-text class="flex-grow-1">
                 <p>Access to all sessions and workshops, conference swag, and networking events.</p>
@@ -40,14 +40,14 @@
           </div>
         </v-col>
   
-        <!-- VIP Ticket -->
+        <!-- VIP Pass -->
         <v-col cols="12" md="4" class="d-flex">
           <div class="shadow-wrapper">
             <v-card class="pricing-card vip-card flex-column" outlined>
-              <v-card-title class="title">VIP Ticket</v-card-title>
+              <v-card-title class="title">VIP Pass</v-card-title>
               <v-card-subtitle class="price">₹299</v-card-subtitle>
               <v-card-text class="flex-grow-1">
-                <p>All benefits of the Standard Ticket plus exclusive VIP lounge access, reserved seating, and post-conference dinner event.</p>
+                <p>All benefits of the Standard Pass plus exclusive VIP lounge access, reserved seating, and post-conference dinner event.</p>
                 <div class="divider"></div>
                 <p><strong>Experience Dev Fest 2024 like a VIP!</strong></p>
               </v-card-text>
