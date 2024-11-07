@@ -1,7 +1,6 @@
 <template>
   <div class="mt-4">
     <!-- {{ socialLinks }} -->
-    
    
     <v-btn
       class="mr-1 mb-1"
@@ -58,10 +57,10 @@
     ></v-btn>
     <v-btn
       class="mr-1 mb-1"
-      icon="mdi-youtube"
+      icon="mdi-whatsapp"
       :color="dark ? 'white' : ''"
-      v-if="socialLinks.youtube != null && socialLinks.youtube.length"
-      :href="socialLinks.youtube"
+      v-if="socialLinks.whatsapp != null && socialLinks.whatsapp.length"
+      :href="socialLinks.whatsapp"
       target="_blank"
       size="small"
       variant="text"

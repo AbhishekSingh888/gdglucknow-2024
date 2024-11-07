@@ -3,7 +3,8 @@
     <v-row no-gutters class="d-flex align-center" justify="space-between">
       <v-col cols="12" md="5" class="d-flex align-center justify-center py-4">
         <div class="content-wrapper">
-          <h2 class="mb-4 text-center text-md-left">{{ mainData.welcome.title }} <span class="border bg-white px-3" style="border-radius:50px">2024</span></h2>
+          <h2 class="mb-4 text-center text-md-left">{{ mainData.welcome.title }} <span class="border bg-white px-3"
+              style="border-radius:50px">2024</span></h2>
           <p class="description text-center text-md-left">
             {{ mainData.eventInfo.description.long }}
           </p>
@@ -14,7 +15,8 @@
           </p>
 
           <div class="d-flex justify-center justify-md-start">
-            <v-btn rounded size="large" color="#FFD427" to="/events" class="my-4 mt-3" target="_blank"
+            <v-btn rounded size="large" color="#FFD427" href="https://www.commudle.com/communities/gdg-lucknow"
+              class="my-4 mt-3" target="_blank"
               style="border: 1.5px solid #1e1e1e; color: black; text-transform: capitalize; font-weight: 600; font-size: 16px;"
               variant="flat">
               Grab Your Passes Now

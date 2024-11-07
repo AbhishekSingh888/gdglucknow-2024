@@ -9,7 +9,7 @@
         <div class="shadow-wrapper">
           <v-card class="pricing-card early-bird-card flex-column" outlined>
             <v-card-title class="title">Early Bird Pass</v-card-title>
-            <v-card-subtitle class="price">₹99</v-card-subtitle>
+            <v-card-subtitle class="price">₹299</v-card-subtitle>
             <v-card-text class="flex-grow-1">
               <p class="subtext">Available: Announced Soon</p>
               <div class="divider"></div>
@@ -27,7 +27,7 @@
         <div class="shadow-wrapper">
           <v-card class="pricing-card standard-card flex-column" outlined>
             <v-card-title class="title">Standard Pass</v-card-title>
-            <v-card-subtitle class="price">₹149</v-card-subtitle>
+            <v-card-subtitle class="price">₹349</v-card-subtitle>
             <v-card-text class="flex-grow-1">
               <p class="subtext">Available: Announced Soon</p>
               <div class="divider"></div>
@@ -45,7 +45,7 @@
         <div class="shadow-wrapper">
           <v-card class="pricing-card last-minute-card flex-column" outlined>
             <v-card-title class="title">Last-Minute Pass</v-card-title>
-            <v-card-subtitle class="price">₹199</v-card-subtitle>
+            <v-card-subtitle class="price">₹499</v-card-subtitle>
             <v-card-text class="flex-grow-1">
               <p class="subtext">Available: Announced Soon</p>
               <div class="divider"></div>
