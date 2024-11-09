@@ -2,7 +2,7 @@
   <v-container fluid>
     <v-row class="mb-0">
       <v-col md="12" sm="12" cols="12">
-        <h1 class="section-title">What last year's highlights</h1>
+        <h1 class="section-title">Last year's highlights</h1>
         <p class="section-description">
           DevFest 2023 was a remarkable event that brought together over 1,000 enthusiastic attendees and more than 35
           industry experts for an exciting day of learning and inspiration. Participants immersed themselves in 25+
@@ -44,7 +44,7 @@ const images = ref([img1, img2, img3,img1, img2, img3]);
   animation-fill-mode: forwards;
   opacity: 0;
   border: 1.5px solid black;
-  box-shadow: -8px 8px 0px 0px #ccf6c5;  
+  box-shadow: -8px 8px 0px 0px #000;  
   transition: box-shadow 0.3s ease-in-out; 
 }
 
