@@ -1,0 +1,69 @@
+
+
+[
+    {
+        "name": "Abhishek Verma",
+        "role": "BANSAL INSTITUTE OF ENGINEERING AND TECHNOLOGY, Lucknow",
+        "image": "img/team/team04.jpg"
+    },
+    {
+        "name": "Abhishek Agrahari",
+        "role": "Babu Banarasi Das Institute of Technology and Management",
+        "image": "img/team/team08.png"
+    },
+    {
+        "name": "Amay Mishra",
+        "role": "Amity University, Lucknow",
+        "image": "img/team/team06.jpg"
+    },
+    {
+        "name": "Amar Deep Rao",
+        "role": "Bansal Institute of Engineering and Technology",
+        "image": "img/team/team16.jpg"
+    },
+    {
+        "name": "Mohd Zuhaib Khan",
+        "role": "Umaga Edutech Pvt. Ltd.",
+        "image": "img/team/team05.jpg"
+    },
+    {
+        "name": "Aayush Sharma",
+        "role": "BBDITM",
+        "image": "img/team/team03.png"
+    },
+    {
+        "name": "Akshat Vadera",
+        "role": "Institute of Engineering and Technology",
+        "image": "img/team/team10.jpg"
+    },
+    {
+        "name": "Devanandini",
+        "role": "Institute of Engineering and Technology, Lucknow",
+        "image": "img/team/team01.jpg"
+    },
+    {
+        "name": "Anshul Yadav",
+        "role": "Babu Banarasi Das Institute of Technology and Management",
+        "image": "img/team/team09.jpg"
+    },
+    {
+        "name": "Harshvardhan Singh",
+        "role": "AirLyft.One",
+        "image": "img/team/team15.png"
+    },
+    {
+        "name": "Hitanshu Tandon",
+        "role": "Shri Ramswaroop Memorial College of Engineering and Management",
+        "image": "img/team/team11.jpg"
+    },
+    {
+        "name": "Ishika Bhatnagar",
+        "role": "University of Lucknow",
+        "image": "img/team/team12.jpg"
+    },
+    {
+        "name": "Rupali Lovanshi",
+        "role": "Ambalika Institute of Management and Technology Lucknow",
+        "image": "img/team/team13.png"
+    }
+]

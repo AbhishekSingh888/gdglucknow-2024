@@ -33,8 +33,9 @@ const colors = ref(["#C3ECF6", "#F8D8D8", "#FFE7A5", "#CCF6C5"]);
 import img1 from "@/assets/img/glimps/IMG_0257.png";
 import img2 from "@/assets/img/glimps/IMG_0216.png";
 import img3 from "@/assets/img/glimps/IMG_0377.png";
+const img4 = "/img/past-devfest/image01"
 
-const images = ref([img1, img2, img3,img1, img2, img3]);
+const images = ref([img1, img2, img3]);
 </script>
 
 <style scoped>

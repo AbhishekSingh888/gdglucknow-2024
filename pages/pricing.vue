@@ -27,7 +27,7 @@
         <div class="shadow-wrapper">
           <v-card class="pricing-card standard-card flex-column" outlined>
             <v-card-title class="title">Standard Pass</v-card-title>
-            <v-card-subtitle class="price">₹349</v-card-subtitle>
+            <v-card-subtitle class="price">₹399</v-card-subtitle>
             <v-card-text class="flex-grow-1">
               <p class="subtext">Available: Announced Soon</p>
               <div class="divider"></div>

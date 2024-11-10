@@ -95,7 +95,7 @@
 
 <script setup>
 import { ref, onMounted } from "vue";
-import gdgImage from "../assets/img/badge.png";
+import gdgImage from "../assets/img/badge3.png";
 const { mainData } = useJSONData();
 definePageMeta({
   layout: "default",
