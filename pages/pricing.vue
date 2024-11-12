@@ -16,7 +16,7 @@
               <p>Get full access to all Dev Fest 2024 sessions, workshops, and networking opportunities at a special early rate!</p>
             </v-card-text>
             <v-card-actions>
-              <v-btn class="neumorphic-btn mt-auto" disabled>Register Soon</v-btn>
+              <v-btn class="neumorphic-btn mt-auto" disabled>Registeration Open Soon</v-btn>
             </v-card-actions>
           </v-card>
         </div>
@@ -31,10 +31,10 @@
             <v-card-text class="flex-grow-1">
               <p class="subtext">Available: Announced Soon</p>
               <div class="divider"></div>
-              <p>Access all sessions, workshops, networking events, and conference swag! Join us to connect and learn from industry leaders.</p>
+              <p>Access all sessions, workshops, networking events! Join us to connect and learn from industry leaders.</p>
             </v-card-text>
             <v-card-actions>
-              <v-btn class="neumorphic-btn mt-auto" disabled>Register Soon</v-btn>
+              <v-btn class="neumorphic-btn mt-auto" disabled>Registeration Open Soon</v-btn>
             </v-card-actions>
           </v-card>
         </div>
@@ -52,7 +52,7 @@
               <p>Get the same great access to all events, sessions, and workshops! Don’t miss out on the biggest developer event of the year.</p>
             </v-card-text>
             <v-card-actions>
-              <v-btn class="neumorphic-btn mt-auto" disabled>Register Soon</v-btn>
+              <v-btn class="neumorphic-btn mt-auto" disabled>Registeration Open Soon</v-btn>
             </v-card-actions>
           </v-card>
         </div>
