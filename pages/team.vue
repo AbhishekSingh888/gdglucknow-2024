@@ -68,6 +68,21 @@
       <div class="team-card">
         <div class="border-overlay">
           <div class="image-wrapper">
+            <img src="/assets/img/team/team07.jpg" alt="Arpit Bhatia" />
+            <div class="bottom-content">
+              <div src="" alt="Small image" class="small-image"></div>
+            </div>
+          </div>
+        </div>
+        <div class="info">
+          <h3>Arpit Bhatia</h3>
+          <p>SDE 1 @Marmeto</p>
+        </div>
+      </div>
+
+      <div class="team-card">
+        <div class="border-overlay">
+          <div class="image-wrapper">
             <img src="/assets/img/team/team05.jpg" alt="Mohd Zuhaib Khan" />
             <div class="bottom-content">
               <div src="" alt="Small image" class="small-image"></div>
