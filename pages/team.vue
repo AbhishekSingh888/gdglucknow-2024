@@ -4,19 +4,203 @@
     articulate their ideas and foster innovative solutions. No matter the challenge, these leaders at the forefront of
     change, creativity, and discovery have worked alongside you to find the answers.</p>
   <div class="team-section">
-    <div v-for="member in teamData" :key="member.name" class="team-card">
-      <div class="border-overlay">
-        <div class="image-wrapper" :style="{ backgroundImage: `url(${member.image})` }">
-          <div class="bottom-content">
-            <div src="" alt="Small image" class="small-image"></div>
+    <div class="team-section">
+      <div class="team-card">
+        <div class="border-overlay">
+          <div class="image-wrapper">
+            <img src="/assets/img/team/team04.jpg" alt="Abhishek Verma" />
+            <div class="bottom-content">
+              <div src="" alt="Small image" class="small-image"></div>
+            </div>
           </div>
         </div>
+        <div class="info">
+          <h3>Abhishek Verma</h3>
+          <p>BANSAL INSTITUTE OF ENGINEERING AND TECHNOLOGY, Lucknow</p>
+        </div>
       </div>
-      <div class="info">
-        <h3>{{ member.name }}</h3>
-        <p>{{ member.role }}</p>
+
+      <div class="team-card">
+        <div class="border-overlay">
+          <div class="image-wrapper">
+            <img src="/assets/img/team/team08.png" alt="Abhishek Agrahari" />
+            <div class="bottom-content">
+              <div src="" alt="Small image" class="small-image"></div>
+            </div>
+          </div>
+        </div>
+        <div class="info">
+          <h3>Abhishek Agrahari</h3>
+          <p>Babu Banarasi Das Institute of Technology and Management</p>
+        </div>
+      </div>
+
+      <div class="team-card">
+        <div class="border-overlay">
+          <div class="image-wrapper">
+            <img src="/assets/img/team/team06.jpg" alt="Amay Mishra" />
+            <div class="bottom-content">
+              <div src="" alt="Small image" class="small-image"></div>
+            </div>
+          </div>
+        </div>
+        <div class="info">
+          <h3>Amay Mishra</h3>
+          <p>Amity University, Lucknow</p>
+        </div>
+      </div>
+
+      <div class="team-card">
+        <div class="border-overlay">
+          <div class="image-wrapper">
+            <img src="/assets/img/team/team16.jpg" alt="Amar Deep Rao" />
+            <div class="bottom-content">
+              <div src="" alt="Small image" class="small-image"></div>
+            </div>
+          </div>
+        </div>
+        <div class="info">
+          <h3>Amar Deep Rao</h3>
+          <p>Bansal Institute of Engineering and Technology</p>
+        </div>
+      </div>
+
+      <div class="team-card">
+        <div class="border-overlay">
+          <div class="image-wrapper">
+            <img src="/assets/img/team/team05.jpg" alt="Mohd Zuhaib Khan" />
+            <div class="bottom-content">
+              <div src="" alt="Small image" class="small-image"></div>
+            </div>
+          </div>
+        </div>
+        <div class="info">
+          <h3>Mohd Zuhaib Khan</h3>
+          <p>Umaga Edutech Pvt. Ltd.</p>
+        </div>
+      </div>
+
+      <div class="team-card">
+        <div class="border-overlay">
+          <div class="image-wrapper">
+            <img src="/assets/img/team/team03.png" alt="Aayush Sharma" />
+            <div class="bottom-content">
+              <div src="" alt="Small image" class="small-image"></div>
+            </div>
+          </div>
+        </div>
+        <div class="info">
+          <h3>Aayush Sharma</h3>
+          <p>BBDITM</p>
+        </div>
+      </div>
+
+      <div class="team-card">
+        <div class="border-overlay">
+          <div class="image-wrapper">
+            <img src="/assets/img/team/team10.jpg" alt="Akshat Vadera" />
+            <div class="bottom-content">
+              <div src="" alt="Small image" class="small-image"></div>
+            </div>
+          </div>
+        </div>
+        <div class="info">
+          <h3>Akshat Vadera</h3>
+          <p>Institute of Engineering and Technology</p>
+        </div>
+      </div>
+
+      <div class="team-card">
+        <div class="border-overlay">
+          <div class="image-wrapper">
+            <img src="/assets/img/team/team01.jpg" alt="Devanandini" />
+            <div class="bottom-content">
+              <div src="" alt="Small image" class="small-image"></div>
+            </div>
+          </div>
+        </div>
+        <div class="info">
+          <h3>Devanandini</h3>
+          <p>Institute of Engineering and Technology, Lucknow</p>
+        </div>
+      </div>
+
+      <div class="team-card">
+        <div class="border-overlay">
+          <div class="image-wrapper">
+            <img src="/assets/img/team/team09.jpg" alt="Anshul Yadav" />
+            <div class="bottom-content">
+              <div src="" alt="Small image" class="small-image"></div>
+            </div>
+          </div>
+        </div>
+        <div class="info">
+          <h3>Anshul Yadav</h3>
+          <p>Babu Banarasi Das Institute of Technology and Management</p>
+        </div>
+      </div>
+
+      <div class="team-card">
+        <div class="border-overlay">
+          <div class="image-wrapper">
+            <img src="/assets/img/team/team15.png" alt="Harshvardhan Singh" />
+            <div class="bottom-content">
+              <div src="" alt="Small image" class="small-image"></div>
+            </div>
+          </div>
+        </div>
+        <div class="info">
+          <h3>Harshvardhan Singh</h3>
+          <p>AirLyft.One</p>
+        </div>
+      </div>
+
+      <div class="team-card">
+        <div class="border-overlay">
+          <div class="image-wrapper">
+            <img src="/assets/img/team/team11.jpg" alt="Hitanshu Tandon" />
+            <div class="bottom-content">
+              <div src="" alt="Small image" class="small-image"></div>
+            </div>
+          </div>
+        </div>
+        <div class="info">
+          <h3>Hitanshu Tandon</h3>
+          <p>Shri Ramswaroop Memorial College of Engineering and Management</p>
+        </div>
+      </div>
+
+      <div class="team-card">
+        <div class="border-overlay">
+          <div class="image-wrapper">
+            <img src="/assets/img/team/team12.jpg" alt="Ishika Bhatnagar" />
+            <div class="bottom-content">
+              <div src="" alt="Small image" class="small-image"></div>
+            </div>
+          </div>
+        </div>
+        <div class="info">
+          <h3>Ishika Bhatnagar</h3>
+          <p>University of Lucknow</p>
+        </div>
+      </div>
+
+      <div class="team-card">
+        <div class="border-overlay">
+          <div class="image-wrapper">
+            <img src="/assets/img/team/team13.png" alt="Rupali Lovanshi" />
+            <div class="bottom-content">
+              <div src="" alt="Small image" class="small-image"></div>
+            </div>
+          </div>
+        </div>
+        <div class="info">
+          <h3>Rupali Lovanshi</h3>
+          <p>Ambalika Institute of Management and Technology Lucknow</p>
+        </div>
       </div>
     </div>
+
   </div>
 </template>
 
@@ -79,9 +263,6 @@ export default {
   border-radius: 50%;
   overflow: hidden;
   position: relative;
-  background-size: cover;
-  background-position: center;
-  transition: transform 0.3s ease;
 }
 
 .image-wrapper img {
@@ -109,7 +290,7 @@ export default {
   width: 130px;
   height: 45px;
   margin-top: 10px;
-  background-image: url('/assets/img/logowithtext.png')
+  background-image: url('img/common/logowithtext.png')
 }
 
 .info {
