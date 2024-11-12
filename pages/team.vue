@@ -204,15 +204,6 @@
   </div>
 </template>
 
-<script>
-export default {
-  name: "TeamSection",
-  setup() {
-    const { teamData } = useJSONData();
-    return { teamData };
-  },
-};
-</script>
 
 <style scoped>
 .title {
@@ -290,7 +281,7 @@ export default {
   width: 130px;
   height: 45px;
   margin-top: 10px;
-  background-image: url('img/common/logowithtext.png')
+  background-image: url('assets/img/logowithtext.png')
 }
 
 .info {
