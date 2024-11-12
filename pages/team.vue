@@ -1,11 +1,12 @@
 <template>
   <h1 class="pb-2 title">The Trailblazers Behind the Magic ✨</h1>
-  <p class="mb-4 subtitle">Our goal is to empower our community by providing them with valuable skills that help them articulate their ideas and foster innovative solutions. No matter the challenge, these leaders at the forefront of change, creativity, and discovery have worked alongside you to find the answers.</p>
+  <p class="mb-4 subtitle">Our goal is to empower our community by providing them with valuable skills that help them
+    articulate their ideas and foster innovative solutions. No matter the challenge, these leaders at the forefront of
+    change, creativity, and discovery have worked alongside you to find the answers.</p>
   <div class="team-section">
     <div v-for="member in teamData" :key="member.name" class="team-card">
       <div class="border-overlay">
-        <div class="image-wrapper">
-          <img :src="member.image" alt="Profile image" />
+        <div class="image-wrapper" :style="{ backgroundImage: `url(${member.image})` }">
           <div class="bottom-content">
             <div src="" alt="Small image" class="small-image"></div>
           </div>
@@ -78,6 +79,9 @@ export default {
   border-radius: 50%;
   overflow: hidden;
   position: relative;
+  background-size: cover;
+  background-position: center;
+  transition: transform 0.3s ease;
 }
 
 .image-wrapper img {
@@ -105,7 +109,7 @@ export default {
   width: 130px;
   height: 45px;
   margin-top: 10px;
-  background-image: url('img/common/logowithtext.png')
+  background-image: url('/assets/img/logowithtext.png')
 }
 
 .info {
@@ -131,6 +135,7 @@ export default {
   0% {
     transform: rotate(0deg);
   }
+
   100% {
     transform: rotate(360deg);
   }
