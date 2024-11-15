@@ -95,7 +95,7 @@
 
 <script setup>
 import { ref, onMounted } from "vue";
-import gdgImage from "../assets/img/badge3.png";
+import gdgImage from "../assets/img/Badge_New.png";
 const { mainData } = useJSONData();
 definePageMeta({
   layout: "default",
@@ -233,7 +233,7 @@ const changeShape = (type) => {
 const download = () => {
   const a = document.createElement("a");
   const url = canvasRef.value.toDataURL("image/png;base64");
-  a.download = "badge.png";
+  a.download = "Badge_New.png";
   a.href = url;
   a.click();
 };
