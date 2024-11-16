@@ -11,12 +11,11 @@
             <v-card-title class="title">Early Bird Pass</v-card-title>
             <v-card-subtitle class="price">₹299</v-card-subtitle>
             <v-card-text class="flex-grow-1">
-              <p class="subtext">Available: Announced Soon</p>
               <div class="divider"></div>
               <p>Get full access to all Dev Fest 2024 sessions, workshops, and networking opportunities at a special early rate!</p>
             </v-card-text>
             <v-card-actions>
-              <v-btn class="neumorphic-btn mt-auto" disabled>Registeration Open Soon</v-btn>
+              <v-btn class="neumorphic-btn mt-auto"><a href="https://www.commudle.com/communities/gdg-lucknow/events/devfest-lucknow-2024">Get Now</a></v-btn>
             </v-card-actions>
           </v-card>
         </div>
