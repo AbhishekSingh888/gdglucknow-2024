@@ -36,9 +36,7 @@
               </p>
             </v-card-text>
             <v-card-actions>
-              <v-btn class="neumorphic-btn mt-auto" @click="openLink">
-                Get Pass
-              </v-btn>
+              <v-btn class="neumorphic-btn mt-auto" disabled>Sold out</v-btn>
             </v-card-actions>
           </v-card>
         </div>
@@ -58,7 +56,7 @@
                 developer event of the year.</p>
             </v-card-text>
             <v-card-actions>
-              <v-btn class="neumorphic-btn mt-auto" disabled @click="openLastMinLink">Get Pass</v-btn>
+              <v-btn class="neumorphic-btn mt-auto" @click="openLastMinLink">Get Pass</v-btn>
             </v-card-actions>
           </v-card>
         </div>
